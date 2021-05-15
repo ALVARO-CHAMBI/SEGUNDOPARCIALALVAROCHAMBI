@@ -1,0 +1,19 @@
+/* Frame 270 */
+
+
+position: static;
+width: 364px;
+height: 67px;
+left: 0px;
+top: 0px;
+
+/* Red */
+
+background: #EB5757;
+
+/* Inside Auto Layout */
+
+flex: none;
+order: 0;
+flex-grow: 0;
+margin: 10px 0px;
